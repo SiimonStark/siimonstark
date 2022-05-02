@@ -8,7 +8,7 @@ as if the tool is custom tailored to their needs 👔
 
 Skills: REACT / UI-UX  / JS / MySQL / Node / HTML / CSS
 
-- 🔭 I’m currently working on 50 Projects Challenge 
+- 🔭 I’m currently working on Bigfoot Roofing 
 - 🌱 I’m currently learning CSS animation to ease user experience 
 - 💬 Ask me about My students 
 - 📫 How to reach me: siimonstark@gmail.com 
